@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1726266255673,
+      "tag": "0000_parched_toxin",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1726266678102,
+      "tag": "0001_faulty_bloodaxe",
+      "breakpoints": true
+    }
+  ]
+}
